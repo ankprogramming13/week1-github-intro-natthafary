@@ -129,18 +129,31 @@ function fancyAlert(arg) {
 |มัธยมศึกษา|ร.ร.ไผ่แก้ววิทยา|ม.1-ม.3|
 |ประกาศณียบัตรวิชาชีพ|วิทยาลัยอาชีวศึกษาฉะเชิงเทรา|ปวช.1-ปวช.3|
 
+เว็บไซต์[ที่นี้](www.google.com"google")
+
+อาหารโปรด
+1. เตรียมกะทะกับตะหลิว
+2. ตั้งกะทะใส่น้ำมะนจุดไป
+3. ตอกไข่ใส่เครื่องปรุงตามต้องการ
+4. ตีไข่ให้เข้ากัน
+5. นำใข่ที่ตีจนเข้ากันใส่กะทะ
+6. ทอดให้สุก
+7. นำใส้จาน
+
+![alt text](https://lh3.googleusercontent.com/Q63K5KPCYnYUgBS0co3Zf3AbAlhvLcP_kzhRXZZZlLFAqYeov_EUZ4m009BmukNnRphglSZNzmgBUKtzQEut09e7-fVRqeXrE0UntfTucMPZ8oRORyXFuzJ6yNOX5-FYqcdndsVstWU2yDvTp-VjM52wvB0TOXLMA0ieGq61eXlTM_SOlWqfV7psucaa0QEMvtvqqfPtDdALAVrWke2l7cTJEvZGFzj9J51ZIYrE_rEsmFCg5TN9jJ3rvdSa-2Aait9zVdUbWe2IcJaqRwxeWwmNttJ6R73R5eHTeBM-Wo77sHiGEcgtcGbDdBtEmNPD63AT1HPRo5LDxUebvxCfCHzenJVMJNAo1fy2EN3sR5Iqvf3cTjTCWtxrgtOncckAs2Vj3thgFH1nRXsTL92QaeEveccMmZCYkQadv2Volw1BmmE3uNCwTwHnnFncS1WYqlKMtBNA1Yjk0Zf6AlBcK0Uv2KWD6oY4GUZo__2xKmSLwDc4ZuX35ARIqQhwg2NrjJbTXNhEMENndnr-66p6Hzn69niGM0IK1ijuKoR1I_Makgg9fEexQK8UlW8jQWR37zQ7CzWWk9Chv58WMNmQmwUSEmAOQhUNlySFNUm4Pg=w498-h663-no)
+
 **$$$$3**
 
 ### ตอบคำถามท้ายการทดลอง
 
-1. เว็บไซต์ที่ใช้งาน ชื่อ **$4    4$**
-2. ไฟล์ประเภท markdown มีนามสกุลไฟล์ คือ **$5   5$**
-3. การเขียน markdown มีข้อดีคือ **$6   6$** 
+1. เว็บไซต์ที่ใช้งาน ชื่อ **$4  github.com  4$**
+2. ไฟล์ประเภท markdown มีนามสกุลไฟล์ คือ **$5  .md 5$**
+3. การเขียน markdown มีข้อดีคือ **$6 สะดวกในการใช้งาน  6$** 
 4. หากให้นักศึกษาอ่านไฟล์ markdown โดยไม่ต้องผ่านเว็บ นักเรียนจะอ่านรู้เรื่องหรือไม่ 
 
 **$$7** 
 
-- [ ] รู้เรื่อง  
+- [x] รู้เรื่อง  
 - [ ] ไม่รู้เรื่อง
 
 **$$7** 
@@ -149,5 +162,6 @@ function fancyAlert(arg) {
 
 **$$$$8**
 
+สะดวกต่อการใช้งาน ใช้งานง่าย
 
 **$$$$8**
